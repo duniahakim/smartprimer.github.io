@@ -1,0 +1,22 @@
+# Build settings
+theme: jekyll-theme-cayman
+
+title: Smart Primer
+description: Revolutionize Education with Artificial Intelligence
+
+footer-links:
+  dribbble: 
+  email: ssruan@stanford.edu
+  facebook: 
+  flickr: 
+  github: github.com/smartprimer
+  instagram: 
+  linkedin: 
+  pinterest: 
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: stackexchange
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
